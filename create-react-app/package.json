@@ -1,0 +1,26 @@
+{
+  "name": "create-react-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@shopify/polaris": "^2.2.0",
+    "axios": "^0.18.0",
+    "graphql": "^0.13.2",
+    "graphql-tag": "^2.9.2",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "react-scripts": "1.1.4",
+    "shopify-buy": "^1.7.0",
+    "shopify-node-api": "^1.8.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1"
+  }
+}
